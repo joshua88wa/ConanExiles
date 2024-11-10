@@ -1,2 +1,2 @@
 # Funcom Conan Exiles
-The default settings are missing a lot of the settings and are grouped in a way that was confusing to me. So I tried to fix that.
+The default settings are way too confusing to me and some of the settings are missing, so I am trying to fix that.
